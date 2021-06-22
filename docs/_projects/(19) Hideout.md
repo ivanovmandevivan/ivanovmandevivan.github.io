@@ -1,8 +1,9 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: Hideout (W.I.P)
+tools: [C++, UE4]
+image: /assets/hideout_splashart.jpg
+description: A fabulous third person stealth game developed by "Better In Red" at ESAT, Valencia.
+external_url: https://twitter.com/MayHideout
 ---
 
 # The Movies Project
