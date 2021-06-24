@@ -5,6 +5,6 @@ permalink: /resume/
 weight: 3
 ---
 
-<object data="https://ivanovmandevivan.github.io/assets/resume_cv.pdf" type="application/pdf">
-    <embed src="https://ivanovmandevivan.github.io/assets/resume_cv.pdf" type="application/pdf" />
+<object data="https://ivanovmandevivan.github.io/assets/resume_cv.pdf" type="application/pdf" width="100%" height="100%">
+    <embed src="https://ivanovmandevivan.github.io/assets/resume_cv.pdf" type="application/pdf" width=100%" height="100%" />
 </object>
