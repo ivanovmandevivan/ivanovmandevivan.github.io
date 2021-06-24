@@ -1,9 +1,7 @@
 ### Site Settings ###
 title               : Ivan Ivanov Mandev
 description         : >-
-                      I turn coffee :coffee: into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Sleep? What class is that part of...?
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : ivanovmandevivan/ivanovmandevivan.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -30,7 +28,7 @@ author:
 # dribbble          : your_username
   email             : ivanovmandevivan@gmail.com
 #  facebook          : your_username
-#  github            : ivanovmandevivan
+  github            : ivanovmandevivan
 # gitlab            : your_username
 # instagram         : your_username
 # kaggle            : your_username

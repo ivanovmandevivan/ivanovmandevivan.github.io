@@ -1,17 +1,14 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Student, ESAT
   from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  to: 2021
+  description: I studied in this university called Escuela Superior de Arte y Tecnología (ESAT) in Valencia, Spain 
+              the whole period from 2018 to 2021, the title I achieved in this university is an HND in Videogames Programming,
+              specializing myself in all disciplines of game development related to programming, giving me a foundation from which
+              I can continue and grow from.
+
+- title: Game Programmer, Better In Red
+  from: Oct-2021
+  to: July-2021
+  description: I worked on a game called "Hideout" while taking part in a student studio inside the university in ESAT.
+              Hideout is a stealth based game developed in Unreal Engine 4 and published in Steam and ported to PS4.
+              The contributions I did to this project were many, ranging from the artificial intelligence of the enemies to general appliances such as the doors, player mechanics, animations, etc.
