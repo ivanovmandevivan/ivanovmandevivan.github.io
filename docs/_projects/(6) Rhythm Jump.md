@@ -2,18 +2,20 @@
 name: Rhythm Jump
 tools: [C#, Unity]
 image: https://i.imgur.com/KcGnUAo.gif
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+description: A small rhythm game with some cool flashy effects and a very simplistic mechanic, jumping at the rhythm of the music!
 ---
 
-{% include elements/video.html id="NDSFaPazYko" %}
+{% include elements/video.html id="XVZOYgDh2as" %}
 
 # Brief
 
-A small game where the objective is to reach a certain height in the Y Axis while spawning physics objects, there are two players and each one can spawn blocsk with a joystick until they reach the given objective height.
+A small unity game where the main focus is on the effects, the rhythm and the jumping of the player through the obstacles that go with the music.
 
-It uses the physic engine called "Box2D" and emphasizes on the database saving of the physics world and textures of the game whilst retaining 4 save slots and the possibility to load them in runtime.
+An algorithm called "Blackman" was used to individually sample the songs and to place obstacles and synchronize the effects with the different songs that we have in the game.
 
-Project was done by Ivan Ivanov Mandev and Alvaro Soriano Romero
+ ! Some of the songs might be muted due to copyright strikes to the video.
+
+Project was done by Ivan Ivanov Mandev , Nacho González-Herrero Ruiz de Eguílaz and Juan Carlos Ten.
 
 <p class="text-center">
 {% include elements/button.html link="https://ivanovmandevivan.github.io/projects/" text="Go Back" %}
