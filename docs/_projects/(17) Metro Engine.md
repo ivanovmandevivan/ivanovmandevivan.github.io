@@ -32,6 +32,8 @@ This project was developed by:
 - Alvaro Soriaon Romero.
 - Ivan Ivanov Mandev.
 
+You can check the **in-depth** explanations on how the engine was built on the PC version in this website: [metro-engine.github.io](https://metro-engine.github.io/)
+
 <p class="text-center">
 {% include elements/button.html link="https://ivanovmandevivan.github.io/projects/" text="Go Back" %}
 </p>
