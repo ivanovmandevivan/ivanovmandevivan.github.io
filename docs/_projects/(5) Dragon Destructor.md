@@ -2,7 +2,7 @@
 name: Dragon Destructor
 tools: [C++]
 image: https://i.imgur.com/lKu7kmI.gif
-description: A small pixel art 2D game where we implemented "Box2D" Physics Engine and a fully editable level editor alongside an interaction with databases.
+description: A small pixel art 2D game where we implemented "Box2D" Physics Engine and a fully editable level editor alongside interactions with databases (SQLITE).
 ---
 
 {% include elements/video.html id="NDSFaPazYko" %}
