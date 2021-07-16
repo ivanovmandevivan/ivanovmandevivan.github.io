@@ -1,9 +1,9 @@
 ---
-name: Hideout (W.I.P)
+name: Hideout: Face your fears
 tools: [C++, UE4]
 image: /assets/hideout_splashart.jpg
 description: A fabulous third person stealth game developed by "Better In Red" at ESAT, Valencia.
-external_url: https://twitter.com/MayHideout
+external_url: https://store.steampowered.com/app/1659400/Hideout_Face_your_fears/
 ---
 
 # The Movies Project
