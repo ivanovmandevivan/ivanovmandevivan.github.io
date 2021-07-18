@@ -1,5 +1,5 @@
 ---
-name: Hideout: Face your fears
+name: Hideout Face your fears
 tools: [C++, UE4]
 image: /assets/hideout_splashart.jpg
 description: A fabulous third person stealth game developed by "Better In Red" at ESAT, Valencia.
