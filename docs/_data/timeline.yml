@@ -12,3 +12,8 @@
   description: I worked on a game called "Hideout" while taking part in a student studio inside the university in ESAT.
               Hideout is a stealth based game developed in Unreal Engine 4 and published in Steam and ported to PS4.
               The contributions I did to this project were many, ranging from the artificial intelligence of the enemies to general appliances such as the doors, player mechanics, animations, etc.
+- title: Unity Programmer / Backend Engineer, Playshore
+  from: Sept-2021
+  to: Present
+  description: I have mostly been working in the various games that the company has developing minigames, fixing bugs and being mostly a generalist programmer. As far as the backend part, since I joined this company I got presented with the opportunity to learn Flutter & Dart to be able to develop the backend & frontend for an analytics multi-platform software to display the information of our games in real time through Firebase (Cloud Functions).
+              
